@@ -291,8 +291,7 @@ def frontmost_application(type, app_aliases, as_json=true)
       bundle_identifiers.concat(vi_bundle_identifiers)
       bundle_identifiers.concat(virtual_machine_bundle_identifiers)
       bundle_identifiers.concat(x11_bundle_identifiers)
-      bundle_identifiers.concat(browser_bundle_identifiers)
-
+      
     when 'rdt'
       bundle_identifiers.concat(rdt_bundle_identifiers)
 
