@@ -67,6 +67,7 @@
                 "^com\\.apple\\.Terminal$",
                 "^co\\.zeit\\.hyperterm$",
                 "^co\\.zeit\\.hyper$",
+                "^org\\.alacritty$",
                 "^org\\.vim\\.",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
@@ -743,6 +744,7 @@
                 "^com\\.apple\\.Terminal$",
                 "^co\\.zeit\\.hyperterm$",
                 "^co\\.zeit\\.hyper$",
+                "^org\\.alacritty$",
                 "^org\\.vim\\.",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
@@ -756,10 +758,7 @@
                 "^org\\.x\\.X11$",
                 "^com\\.apple\\.x11$",
                 "^org\\.macosforge\\.xquartz\\.X11$",
-                "^org\\.macports\\.X11$",
-                "^org\\.mozilla\\.firefox$",
-                "^org\\.waterfoxproject\\.waterfox$",
-                "^com\\.google\\.Chrome$"
+                "^org\\.macports\\.X11$"
               ]
             }
           ]
@@ -824,6 +823,7 @@
                 "^com\\.apple\\.Terminal$",
                 "^co\\.zeit\\.hyperterm$",
                 "^co\\.zeit\\.hyper$",
+                "^org\\.alacritty$",
                 "^org\\.vim\\.",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
@@ -837,10 +837,7 @@
                 "^org\\.x\\.X11$",
                 "^com\\.apple\\.x11$",
                 "^org\\.macosforge\\.xquartz\\.X11$",
-                "^org\\.macports\\.X11$",
-                "^org\\.mozilla\\.firefox$",
-                "^org\\.waterfoxproject\\.waterfox$",
-                "^com\\.google\\.Chrome$"
+                "^org\\.macports\\.X11$"
               ]
             }
           ]
@@ -898,6 +895,7 @@
                 "^com\\.apple\\.Terminal$",
                 "^co\\.zeit\\.hyperterm$",
                 "^co\\.zeit\\.hyper$",
+                "^org\\.alacritty$",
                 "^org\\.vim\\.",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
@@ -960,6 +958,7 @@
                 "^com\\.apple\\.Terminal$",
                 "^co\\.zeit\\.hyperterm$",
                 "^co\\.zeit\\.hyper$",
+                "^org\\.alacritty$",
                 "^org\\.vim\\.",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
@@ -1022,6 +1021,7 @@
                 "^com\\.apple\\.Terminal$",
                 "^co\\.zeit\\.hyperterm$",
                 "^co\\.zeit\\.hyper$",
+                "^org\\.alacritty$",
                 "^org\\.vim\\.",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
@@ -1084,6 +1084,7 @@
                 "^com\\.apple\\.Terminal$",
                 "^co\\.zeit\\.hyperterm$",
                 "^co\\.zeit\\.hyper$",
+                "^org\\.alacritty$",
                 "^org\\.vim\\.",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
@@ -2527,6 +2528,7 @@
                 "^com\\.apple\\.Terminal$",
                 "^co\\.zeit\\.hyperterm$",
                 "^co\\.zeit\\.hyper$",
+                "^org\\.alacritty$",
                 "^org\\.vim\\.",
                 "^com\\.vmware\\.fusion$",
                 "^com\\.vmware\\.horizon$",
