@@ -184,6 +184,7 @@ def frontmost_application(type, app_aliases, as_json=true)
     '^com\.apple\.Terminal$',
     '^co\.zeit\.hyperterm$',
     '^co\.zeit\.hyper$',
+    '^org\.alacritty$',
   ]
 
   vi_bundle_identifiers = [
@@ -291,7 +292,7 @@ def frontmost_application(type, app_aliases, as_json=true)
       bundle_identifiers.concat(vi_bundle_identifiers)
       bundle_identifiers.concat(virtual_machine_bundle_identifiers)
       bundle_identifiers.concat(x11_bundle_identifiers)
-      
+
     when 'rdt'
       bundle_identifiers.concat(rdt_bundle_identifiers)
 
